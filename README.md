@@ -11,7 +11,7 @@ First used Spotify to gather the codes for each song, sorted in a spreadsheet. W
 Showcase the spreadsheet and the data files.
 
 # Difficulties faced and lessons learned
-Learning to use credentials with an API as well as how to best store the unique data types that Spotify uses in a file so they can be read by later parts of the project. Spotify's API also makes it hard to gather data quickly, so it must be done through a loop
+Learning to use credentials with an API as well as how to best store the unique data types that Spotify uses in a file so they can be read by later parts of the project. Spotify's API also makes it hard to gather data quickly, so it must be done through one by one instead of in a loop.
 
 # Next steps towards your project
 Use MatLab to read in the sonic attributes, analyze the attributes, construct and plot trend lines. Then use Ruby to create an interface that can show results and other trends.
